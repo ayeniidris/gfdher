@@ -3,6 +3,7 @@
   <ItemGroup>
     <ProjectReference Include="..\EstateApp.Data\EstateApp.Data.csproj" />
   </ItemGroup>
+  
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
